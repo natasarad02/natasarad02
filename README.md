@@ -19,7 +19,7 @@ I'm a third-year student at the Faculty Of Technical Sciences in Novi Sad, mostl
 
 ## Experience
 
-I learned a lot of C, C++ and Java at college and a little bit of C# in high school. In Petnica, where I attended astronomy seminars, I got a lot of experience in Python (mainly data processing and calculations). I also attended two machine learning Hackathons, where I became interested in artificial intelligence.
+I learned a lot of C, C++ and Java at college and a little bit of C# in high school. In Petnica, where I attended astronomy seminars, I got a lot of experience in Python (mainly data processing and calculations). I also participated in two machine learning Hackathons, where I became interested in artificial intelligence.
 
 ## Projects
 
