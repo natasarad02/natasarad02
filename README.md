@@ -1,7 +1,7 @@
-# Welcome to my GitHub 🌹
+# Welcome 🌹
 
 <div align="center">
-<img src = "https://media.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" alt="Cat GIF" width = "20%">
+<img src = "https://media.giphy.com/media/MA2k5iLXwtdEqjEYY3/giphy.gif" alt="Dog GIF" width = "25%">
 </div>
 
 ## About Me
@@ -20,6 +20,10 @@ I'm a third-year student at the Faculty Of Technical Sciences in Novi Sad, mostl
 ## Experience
 
 I learned a lot of C, C++ and Java at college and a little bit of C# in high school. In Petnica, where I attended astronomy seminars, I got a lot of experience in Python (mainly data processing and calculations). I also participated in two machine learning Hackathons, where I became interested in artificial intelligence.
+
+<div align="center">
+<img src = "https://media.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" alt="Cat GIF" width = "15%">
+</div>
 
 ## Projects
 
