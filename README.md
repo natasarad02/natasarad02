@@ -4,42 +4,30 @@
 
 I'm a third-year student at the Faculty Of Technical Sciences in Novi Sad, mostly interested in artificial intelligence, web and mobile development. I also like to combine computer science and astrophysics.
 
-## Programming languages
+## Technologies
 
-🌙 Python <br>
-🌙 C/C++  <br>
-🌙 C#  <br>
-🌙 Java <br>
-🌙 HTML/CSS <br>
-🌙 JavaScript
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js" />
+  </a>
+</p>
 
 ## Experience
 
-I learned a lot of C, C++ and Java at college and a little bit of C# in high school. In Petnica, where I attended astronomy seminars, I got a lot of experience in Python (mainly data processing and calculations). I also participated in two machine learning Hackathons, where I became interested in artificial intelligence.
-
-## Projects
-
-###  Space Object Classification
-
-💠 [Repository](https://github.com/natasarad02/space-object-classification) <br>
-💠 Classifying images of space objects using Convolutional Neural Network <br>
-💠 Technologies: Python
-
-###  Kepler-488 b (Petnica project 2021)
-
-💠 [Repository](https://github.com/natasarad02/kepler-488b) <br>
-💠 Simultaneous light curve fitting of Kepler-488 b transit through multiple filters <br>
-💠 Technologies: Python
-
-###  TooDoo
-
-💠 [Repository](https://github.com/natasarad02/TooDoo) <br>
-💠 A very simple To-Do list <br>
-💠 Technologies: JavaScript, HTML and CSS <br>
+I learned a lot of C, C++, Java and C# at college and a little bit of C#. In Petnica, where I attended astronomy seminars, I got a lot of experience in Python (mainly data processing and calculations). I also participated in two machine learning Hackathons, where I became interested in artificial intelligence.
 
 
-<div align="center">
-<img src = "https://media.giphy.com/media/MA2k5iLXwtdEqjEYY3/giphy.gif" alt="Dog GIF" width = "25%">
-</div>
+
+![Natasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=natasarad02&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natasarad02&theme=tokyonight&layout=donut) 
+
+<div align="right">
+<img src = "https://media.giphy.com/media/MA2k5iLXwtdEqjEYY3/giphy.gif" alt="Dog GIF" width = "15%">
+</div> 
+
+
+
+
+
+
 
 
