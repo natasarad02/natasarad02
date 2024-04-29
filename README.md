@@ -2,11 +2,19 @@
 
 Student at the Faculty Of Technical Sciences in Novi Sad, mostly interested in artificial intelligence and software development. I also like to combine computer science and astrophysics.
 
-## Technologies
+## Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js" />
+  </a>
+</p>
+
+## Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,pycharm,visualstudio,vscode" />
   </a>
 </p>
 
