@@ -17,8 +17,13 @@ I'm a third-year student at the Faculty Of Technical Sciences in Novi Sad, mostl
 I learned a lot of C, C++, Java and C# at college and a little bit of C#. In Petnica, where I attended astronomy seminars, I got a lot of experience in Python (mainly data processing and calculations). I also participated in two machine learning Hackathons, where I became interested in artificial intelligence.
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=natasarad02&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natasarad02&theme=tokyonight&layout=donut" />
+</a>
 
-![Natasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=natasarad02&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natasarad02&theme=tokyonight&layout=donut) 
 
 <div align="right">
 <img src = "https://media.giphy.com/media/MA2k5iLXwtdEqjEYY3/giphy.gif" alt="Dog GIF" width = "15%">
