@@ -1,4 +1,4 @@
-# Welcome 🦢
+# Hello 🦢
 
 Student at the Faculty Of Technical Sciences in Novi Sad, mostly interested in artificial intelligence and software development. I also like to combine computer science and astrophysics.
 
