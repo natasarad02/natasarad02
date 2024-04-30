@@ -25,10 +25,10 @@ I learned a lot of C, C++, Java and C# at college and a little bit of C#. In Pet
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=natasarad02&show_icons=true&theme=tokyonight" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=natasarad02&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natasarad02&theme=tokyonight&layout=donut" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natasarad02&theme=tokyonight&layout=donut" />
 </a>
 </div>
 
