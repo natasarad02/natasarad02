@@ -1,7 +1,5 @@
 # Hello 🦢
 
-I'm a student at the Faculty Of Technical Sciences in Novi Sad, mostly interested in artificial intelligence and software development. I also like to combine computer science and astrophysics.
-
 ## Technologies
 
 <p align="center">
@@ -18,9 +16,7 @@ I'm a student at the Faculty Of Technical Sciences in Novi Sad, mostly intereste
   </a>
 </p>
 
-## Experience
 
-I learned a lot of C, C++, Java and C# at college and a little bit of C#. In Petnica, where I attended astronomy seminars, I got a lot of experience in Python (mainly data processing and calculations). I also participated in two machine learning Hackathons, where I became interested in artificial intelligence.
 
 
 <div align="center">
