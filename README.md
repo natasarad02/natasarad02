@@ -1,5 +1,6 @@
 # Hello 🦢
 
+
 ## Technologies
 
 <p align="center">
@@ -34,6 +35,7 @@
 <div align="right">
 <img src = "https://media.giphy.com/media/MA2k5iLXwtdEqjEYY3/giphy.gif" alt="Dog GIF" width = "15%">
 </div> 
+
 
 
 
