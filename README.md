@@ -1,5 +1,4 @@
-# Hello 🦢
-
+# Hello, I'm Nataša 🦢
 
 ## Technologies
 
