@@ -1,5 +1,12 @@
 # Hello, I'm Nataša 🦢
 
+
+<p>🦋 A third year student at The Faculty Of Technical Sciences, based in Novi Sad, Serbia</p>        
+<p>🦋 Mostly interested in software engineering, web development and artificial intelligence</p>       
+<p>🦋 I also enjoy music, photography and design</p> 
+
+
+
 ## Technologies
 
 <p align="center">
