@@ -7,7 +7,7 @@
 
 
 
-## Technologies
+## Tech stack
 
 <p align="center">
   <a href="https://skillicons.dev">
