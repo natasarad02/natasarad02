@@ -1,7 +1,7 @@
 # Hello, I'm Nataša 🦢
 
 
-<p>🦋 A third year student at Faculty Of Technical Sciences, University of Novi Sad, Serbia</p>        
+<p>🦋 A fourth year student at Faculty Of Technical Sciences, University of Novi Sad, Serbia</p>        
 <p>🦋 Mostly interested in software engineering, web development and artificial intelligence</p>       
 <p>🦋 I also enjoy music, photography and design</p> 
 
