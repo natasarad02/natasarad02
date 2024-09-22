@@ -2,7 +2,7 @@
 
 
 <p>🦋 Student at Faculty Of Technical Sciences, University of Novi Sad, Serbia</p>        
-<p>🦋 Interested in software engineering, web development and artificial intelligence</p>       
+<p>🦋 Interested in software engineering, informational systems, web development and artificial intelligence</p>       
 
 
 
