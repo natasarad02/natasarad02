@@ -1,4 +1,4 @@
-# Hello, I'm Nataša 🦢
+# 🦢 
 
 
 <p>🦋 Student at Faculty Of Technical Sciences, University of Novi Sad, Serbia</p>        
