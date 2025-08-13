@@ -1,11 +1,5 @@
 # 🦢 
 
-
-<p>🦋 Student at Faculty Of Technical Sciences, University of Novi Sad, Serbia</p>        
-<p>🦋 Interested in software engineering, informational systems, web development and artificial intelligence</p>       
-
-
-
 ## Tech stack
 
 <p align="center">
