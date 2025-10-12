@@ -1,24 +1,7 @@
-# 🦢 🦢 🦢 🦢 🦢
 
-## Tech stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,react,angular,vue" />
-  </a>
-</p>
-
-## Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,pycharm,visualstudio,vscode" />
-  </a>
-</p>
-
-
-
-## Stats
+<div align="center">
+<img src = "https://media.giphy.com/media/MA2k5iLXwtdEqjEYY3/giphy.gif" alt="Dog GIF" width = "30%">
+</div> 
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -29,11 +12,6 @@
 </a>
 </div>
 
-
-
-<div align="right">
-<img src = "https://media.giphy.com/media/MA2k5iLXwtdEqjEYY3/giphy.gif" alt="Dog GIF" width = "15%">
-</div> 
 
 
 
