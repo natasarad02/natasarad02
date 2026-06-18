@@ -4,8 +4,6 @@
 
 <p align="center">
 🎓 Teaching Data Engineering and Data Science at Faculty of Technical Sciences<br>
-🔬 Researching AI, LLMs, and educational technologies<br>
-⚙️ Working part-time as a Data Engineer at <em>Codesquared</em><br>
 </p>
 <br>
 <p align=center><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWEwb2hhc2Z6MzZxcDV1N2RncHowbnhydnVrOXNuaHNia2ZrbTlkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5SKwQMGTR1umLrKC7N/giphy.gif" width="400"></p>
