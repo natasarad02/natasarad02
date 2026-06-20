@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=200&section=header&text=Hi,%20I'm%20Natasa%20🌸&fontColor=ebd1e8&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=200&section=header&text=Hi,%20I'm%20Natasa%20&fontColor=ffffff&fontSize=50" />
 </p>
-<p align="center">
-🎓 Teaching Data Engineering and Data Science at Faculty of Technical Sciences<br>
-</p>
-<br>
+
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=natasarad02&show_icons=true&bg_color=30,f7c5cc,e8a0bf&title_color=7a284e&text_color=5a2141&icon_color=d63384&hide_border=true" />
