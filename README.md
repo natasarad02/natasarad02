@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=200&section=header&text=Hi,%20I'm%20Natasa%20&fontColor=823c68&fontSize=50" />
-</p>
+
 
 
 <p align="center">
